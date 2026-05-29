@@ -10,7 +10,7 @@ The report is divided into four main sections:
 * Executive Overview
 * Sales Analysis
 * Customer Analysis
-* Seller Dashboard
+* Seller Dashboard.
 
 ---
 
