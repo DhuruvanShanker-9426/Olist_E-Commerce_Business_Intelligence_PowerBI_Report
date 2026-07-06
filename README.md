@@ -109,7 +109,7 @@ The report is divided into four main sections:
 * Power BI
 * DAX (Data Analysis Expressions)
 * Data Cleaning & Transformation
-* Data Modeling
+* Data Modeling.
 
 ---
 
